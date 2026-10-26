@@ -8,6 +8,7 @@
         <element label="CV" max_length="255" name="cv" type="file_attachment"/>
         <element label="type of contract" max_length="40" name="type_of_contract" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="place of  birth" max_length="40" name="place_of_birth" type="string"/>
         <element label="phone" max_length="40" name="phone" type="phone_number_e164"/>
         <element label="nationality" max_length="40" name="nationality" type="string"/>
     </element>
