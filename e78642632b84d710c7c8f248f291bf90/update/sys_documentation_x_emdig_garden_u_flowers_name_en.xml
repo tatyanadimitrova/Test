@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="name" language="en" table="x_emdig_garden_u_flowers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>name</label>
+            <language>en</language>
+            <name>x_emdig_garden_u_flowers</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dimittn</sys_created_by>
+            <sys_created_on>2026-10-26 16:20:38</sys_created_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="Garden" source="x_emdig_garden">e78642632b84d710c7c8f248f291bf90</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Garden">e78642632b84d710c7c8f248f291bf90</sys_scope>
+            <sys_update_name>sys_documentation_x_emdig_garden_u_flowers_name_en</sys_update_name>
+            <sys_updated_by>dimittn</sys_updated_by>
+            <sys_updated_on>2026-10-26 16:20:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
